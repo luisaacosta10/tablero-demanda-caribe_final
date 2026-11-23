@@ -1,0 +1,10 @@
+shiny
+shinywidgets
+plotly
+faicons
+pandas
+numpy
+openpyxl
+matplotlib
+statsmodels
+scipy
